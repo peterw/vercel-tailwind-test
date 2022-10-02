@@ -1,5 +1,5 @@
 {
   "rewrites": [
-    { "source": "/blog", "destination": "http://vaibhavis.gay/" }
+    { "source": "/blog/match*", "destination": "http://vaibhavis.gay/blog/match*" }
   ]
 }
